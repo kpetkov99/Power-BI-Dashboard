@@ -1,3 +1,4 @@
 # Power-BI-Dashboard
 
-![PBI-Dashboard](https://user-images.githubusercontent.com/112380016/188587239-5e6e9d93-dcba-41c9-af49-185f5cb32f59.png)
+![ezgif-1-96b40bd95b](https://user-images.githubusercontent.com/112380016/188877597-89241d2d-2e0e-4fd0-b87c-16c91bb4f1fa.gif)
+
